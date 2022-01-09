@@ -1,0 +1,54 @@
+body {
+    background-image: url("http://lava360.com/wp-content/uploads/2014/01/Classic-Background-Images-For-Wordpress-Blogs-111.jpg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    padding: 25px;
+    background-size:cover;
+} 
+.navigation-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 40px;
+    text-align: center;
+    text-decoration-color: red;
+  }
+  .navigation-lists {
+    display: inline;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+  }
+
+  table {
+    border-collapse: separate;
+    width: 50%;
+}
+th, td {
+   text-align: left;
+   border-bottom: 1px solid black; 
+}
+
+
+
+input[type=text] {
+    background-color: blue;
+    color: white;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid red;
+  }
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }

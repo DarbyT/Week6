@@ -1,0 +1,63 @@
+body {
+    background-image: url("https://www.k9web.com/wp-content/uploads/2020/12/charming-golden-mountain-dog-780x689.jpg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    padding: 25px;
+    background-size: cover;
+} 
+    h1 {
+         color: black;
+         text-align: left;
+         font-size: 60px;
+     }
+     
+    .navigation-links {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            font-size: 40px;
+            text-align: center;
+            text-decoration-color: red;
+            
+            
+          }
+          
+          .navigation-lists {
+            display: inline;
+            color: red;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+
+          }
+    .list-dogs{
+        font-size: 30px;
+        font-style: normal;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .gallery {
+        margin: 5px;
+        border: 1px solid white;
+        float: left;
+        width: 180px;
+    }
+    .gallery:hover {
+        border: 1px solid grey;
+    
+    }
+
+    .gallery img {
+        width: 100%;
+        height: auto;
+      }
+    .desc {
+        padding: 15px;
+        text-align: center;
+    }

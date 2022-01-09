@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://w.wallhaven.cc/full/r7/wallhaven-r7mq61.jpg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    padding: 25px;
+    background-size: cover;
+} 
+
+
+.navigation-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 40px;
+    text-align: center;
+    text-decoration-color: red;
+    
+    
+  }
+  
+  .navigation-lists {
+    display: inline;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  h2 {
+    font-size: 20px;
+    text-align: left;
+}
+    p {
+        font-size: 15px;
+        text-align: left;
+    }
+img {
+    float:center
+}
